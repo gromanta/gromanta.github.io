@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gromanta.github.io/gromanta.txt.gz
+Sitemap: https://gromanta.github.io/app/gromanta.txt.gz
+Sitemap: https://gromanta.github.io/assets/gromanta.txt.gz
+Sitemap: https://gromanta.github.io/css/gromanta.txt.gz
+Sitemap: https://gromanta.github.io/includes/gromanta.txt.gz
+Sitemap: https://gromanta.github.io/item/gromanta.txt.gz
+Sitemap: https://gromanta.github.io/src/gromanta.txt.gz
